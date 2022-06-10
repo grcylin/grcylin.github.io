@@ -1,2 +1,2 @@
 # grcylin.github.io
-Just think aloud
+Just thinking aloud
